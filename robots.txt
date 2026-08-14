@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-7tamxo.planetjp.online/sitemap.xml
